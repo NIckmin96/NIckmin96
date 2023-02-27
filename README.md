@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://www.linkedin.com/in/bk-m-b31631209/" target="_blank"><img src="https://img.shields.io/static/v1?&message=Linkedin&color=blue"
+<a href="https://www.linkedin.com/in/bk-m-b31631209/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue-#0A66C2">
 <!--
 **NIckmin96/NIckmin96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
