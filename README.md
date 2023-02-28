@@ -1,6 +1,6 @@
 ### Hi there 👋
-<a href="https://www.linkedin.com/in/bk-m-b31631209/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue">
-<a href="https://sdsf1225.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-white">
+<a href="https://www.linkedin.com/in/bk-m-b31631209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=LinkedIn">
+<a href="https://sdsf1225.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-grey?style=plastic&logo=Tistory">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NIckmin96)](https://github.com/anuraghazra/github-readme-stats)  
 <!--
